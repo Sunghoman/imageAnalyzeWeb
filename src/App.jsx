@@ -44,7 +44,7 @@ function App() {
         <img 
           id='imagePreview'
           className='imagePreview'
-          src={imgFile ? imgFile : 'src/assets/picture.png'}
+          src={imgFile ? imgFile : 'https://i.ibb.co/X2s2Nnq/picture-1.png'}
         />
       </div>
 

@@ -63,7 +63,7 @@ function App() {
         className="btn-upload"
         onClick={analyzeImage}
       >
-        <span>UPLOAD</span>
+        <span>분석하기!</span>
         <div className="progress"></div>
         <div className="check">
           <span></span>
